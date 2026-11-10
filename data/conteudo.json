@@ -1,0 +1,242 @@
+{
+  "_aviso": "Textos do site. Nada aqui pode afirmar o que não foi confirmado (preço, duração, quantidade, prazos, regiões).",
+  "seo": {
+    "titulo": "LC Robot & Eventos | Robôs de LED e Pista Paris em Embu das Artes",
+    "descricao": "Atrações para festas e eventos em Embu das Artes, SP: show com robôs de LED, Pista Paris, DJ, sonorização, iluminação, plataforma 360º e mais. Solicite seu orçamento pelo WhatsApp."
+  },
+  "hero": {
+    "titulo": "Robôs de LED que fazem a festa virar assunto.",
+    "subtitulo": "Robôs de LED, Pista Paris, DJ, som e luz para a sua festa.",
+    "imagem_desktop": "robo-balada-dupla",
+    "imagem_mobile": "robo-amarelo-vertical",
+    "alt": "Dois robôs, um amarelo e outro com LEDs coloridos, em pista de festa com confete e luzes"
+  },
+  "empresa": {
+    "rotulo": "A LC Robot",
+    "titulo": "Entretenimento para quem quer uma festa que as pessoas comentem depois.",
+    "paragrafos": [
+      "A LC Robot & Eventos leva atrações para festas e eventos a partir de Embu das Artes, SP: robôs de LED que dançam e interagem, pista iluminada, DJ, som, luz e experiências para registrar o momento.",
+      "Você escolhe o que quer ver na sua festa e consulta a equipe sobre disponibilidade e possíveis combinações."
+    ],
+    "imagens": [
+      {
+        "nome": "robo-amarelo-criancas",
+        "alt": "Robô amarelo cercado por crianças em festa infantil"
+      },
+      {
+        "nome": "dj-controladora",
+        "alt": "DJ sorrindo na controladora, com luzes coloridas ao fundo"
+      }
+    ]
+  },
+  "familias": [
+    {
+      "id": "shows",
+      "rotulo": "01",
+      "titulo": "Shows e entretenimento"
+    },
+    {
+      "id": "estrutura",
+      "rotulo": "02",
+      "titulo": "Estrutura e ambientação"
+    },
+    {
+      "id": "experiencias",
+      "rotulo": "03",
+      "titulo": "Experiências e registros"
+    }
+  ],
+  "servicos": {
+    "robos_led": {
+      "nome": "Robôs de LED",
+      "descricao": "Dançam, brilham e interagem com quem estiver por perto. Já aparecem em festa de casamento, festa infantil e pista de balada.",
+      "beneficio": "Atraem todas as idades para a pista e rendem fotos que ficam.",
+      "cta": "Quero os robôs no meu evento"
+    },
+    "pista_paris": {
+      "nome": "Pista Paris",
+      "descricao": "Pista de dança formada por módulos iluminados. O efeito de profundidade no piso multiplica os pontos de luz e muda o visual do salão.",
+      "beneficio": "O centro da festa ganha um cenário próprio, mesmo antes de a música começar.",
+      "cta": "Consultar a Pista Paris"
+    },
+    "dj": {
+      "nome": "DJ profissional",
+      "descricao": "Um DJ profissional conduz a música e a animação do início ao fim, acompanhando o clima da festa.",
+      "beneficio": "A música certa na hora certa mantém a pista cheia.",
+      "cta": "Consultar DJ"
+    },
+    "sonorizacao": {
+      "nome": "Sonorização",
+      "descricao": "Estrutura de som para eventos, para que a música e os momentos importantes da festa sejam ouvidos.",
+      "beneficio": "A música e os recados importantes chegam aos convidados.",
+      "cta": "Consultar sonorização"
+    },
+    "iluminacao": {
+      "nome": "Iluminação para eventos",
+      "descricao": "Iluminação e efeitos visuais que ambientam o espaço e mudam o clima a cada momento da festa.",
+      "beneficio": "O salão ganha cara de festa.",
+      "cta": "Consultar iluminação"
+    },
+    "co2": {
+      "nome": "Efeitos especiais com CO₂",
+      "descricao": "Jatos de CO₂ para criar momentos de impacto durante a festa.",
+      "beneficio": "Indicado para marcar os momentos de destaque.",
+      "cta": "Consultar efeitos de CO₂"
+    },
+    "plataforma_360": {
+      "nome": "Plataforma 360º",
+      "descricao": "Plataforma giratória que grava vídeos em 360 graus. Os convidados sobem, posam e registram a festa de um jeito interativo.",
+      "beneficio": "Os convidados deixam de assistir e passam a participar.",
+      "cta": "Consultar a plataforma 360º"
+    },
+    "drone": {
+      "nome": "Captação com drone",
+      "descricao": "Captação de imagens e vídeos aéreos do evento, para registrar a festa por outras perspectivas.",
+      "beneficio": "A festa vista de cima, por ângulos que o celular não alcança.",
+      "aviso": "A realização depende da viabilidade do local, das condições climáticas e dos requisitos aplicáveis à operação.",
+      "cta": "Consultar captação com drone"
+    }
+  },
+  "eventos": {
+    "rotulo": "Uma experiência para cada evento",
+    "titulo": "Para qual festa você está pensando?",
+    "itens": [
+      {
+        "nome": "Casamentos",
+        "texto": "Robôs na pista, DJ, iluminação e a Pista Paris compondo a festa."
+      },
+      {
+        "nome": "Festas infantis",
+        "texto": "Os robôs interagem com as crianças e viram a atração da festa."
+      },
+      {
+        "nome": "Festas e baladas",
+        "texto": "Luzes, DJ, pista e robôs para a energia de uma festa cheia."
+      },
+      {
+        "nome": "Aniversários",
+        "texto": "Plataforma 360º e atrações para o convidado participar."
+      }
+    ],
+    "nota": "Formaturas, eventos corporativos e outros formatos? Converse com a equipe para saber como as atrações se encaixam."
+  },
+  "galeria": {
+    "rotulo": "Galeria",
+    "titulo": "Veja como fica na festa.",
+    "itens": [
+      {
+        "nome": "robo-amarelo-noivos",
+        "alt": "Noivos interagindo com o robô amarelo na pista, com confete no chão",
+        "span": "tall"
+      },
+      {
+        "nome": "dj-ao-ar-livre",
+        "alt": "DJ trabalhando com público ao ar livre",
+        "span": "tall"
+      },
+      {
+        "nome": "robo-amarelo-salao-roxo",
+        "alt": "Robô amarelo em salão com iluminação roxa",
+        "span": "tall"
+      },
+      {
+        "nome": "robo-led-vermelho-balada",
+        "alt": "Robô com LEDs vermelhos sobre a pista, diante do público e de feixes de luz",
+        "span": "tall"
+      },
+      {
+        "nome": "pista-paris-mesas",
+        "alt": "Pista Paris montada em salão, com mesas de doces ao fundo",
+        "span": "wide"
+      },
+      {
+        "nome": "pista-paris-sapatos",
+        "alt": "Sapatos sobre os módulos iluminados da Pista Paris",
+        "span": "wide"
+      }
+    ]
+  },
+  "prova_social": {
+    "ativo": true,
+    "rotulo": "Quem já contratou",
+    "titulo": "Avaliada com 5 estrelas no Casamentos.com.br.",
+    "texto": "A LC Robot & Eventos recebeu avaliações 5 de 5 na plataforma e aparece como ganhadora do Casamentos Awards 2026. Leia o que quem contratou escreveu.",
+    "link": "https://www.casamentos.com.br/animacao-festa/lc-robot-&-eventos--e462692",
+    "link_texto": "Ver avaliações no Casamentos.com.br"
+  },
+  "passos": {
+    "rotulo": "Como pedir seu orçamento",
+    "titulo": "Três passos, uma conversa.",
+    "itens": [
+      {
+        "titulo": "Conte sobre a festa",
+        "texto": "Que tipo de evento é e como você imagina o clima."
+      },
+      {
+        "titulo": "Passe data, local e atrações",
+        "texto": "Diga quando e onde será, e quais atrações chamaram a sua atenção."
+      },
+      {
+        "titulo": "Receba uma proposta",
+        "texto": "A equipe responde com as possibilidades para o seu evento."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "p": "Quais atrações a LC Robot oferece?",
+      "r": "Show com robôs de LED, Pista Paris, DJ profissional, sonorização, iluminação para eventos, efeitos especiais com CO₂, plataforma 360º e captação de imagens e vídeos com drone."
+    },
+    {
+      "p": "Posso contratar mais de uma atração?",
+      "r": "Sim. Cada atração tem a sua forma de contratação, então a equipe mostra o que combina com a sua festa."
+    },
+    {
+      "p": "Como peço um orçamento?",
+      "r": "Pelo WhatsApp. Conte o tipo de evento, a data, o local e as atrações que você quer, e a equipe responde com uma proposta."
+    },
+    {
+      "p": "Como sei se a minha data está livre?",
+      "r": "Envie a data e o local do evento pelo WhatsApp, e a equipe confirma a disponibilidade das atrações que você escolheu."
+    },
+    {
+      "p": "A LC Robot atende outras cidades?",
+      "r": "A empresa fica em Embu das Artes, SP, e os valores variam conforme a localização do evento. Informe o local ao pedir o orçamento."
+    },
+    {
+      "p": "Como funciona a captação com drone?",
+      "r": "É a captura de imagens e vídeos aéreos do evento. Depende da viabilidade do local, das condições climáticas e dos requisitos aplicáveis à operação. Pergunte à equipe se é possível no seu evento."
+    },
+    {
+      "p": "Como funciona a plataforma 360º?",
+      "r": "É uma plataforma giratória em que os convidados gravam vídeos em 360 graus, registrando a festa de forma interativa. Consulte a disponibilidade pelo WhatsApp."
+    },
+    {
+      "p": "Como contrato a Pista Paris?",
+      "r": "Chame a equipe pelo WhatsApp com a data e o local do evento, para saber as possibilidades e a disponibilidade."
+    }
+  ],
+  "cta_final": {
+    "titulo": "Qual é a data da sua festa?",
+    "texto": "Conte para a equipe como será o evento. Ela responde com as atrações e as possibilidades para a sua data.",
+    "botao": "Solicitar meu orçamento",
+    "imagem": "robo-casamento-pista",
+    "alt": "Robôs dançando para os noivos em salão de casamento"
+  },
+  "imagens_de_servico": {
+    "robos_led": [
+      {
+        "nome": "robo-casamento-bolo",
+        "alt": "Robô amarelo ao lado da mesa do bolo em casamento"
+      },
+      {
+        "nome": "robo-festa-infantil-dupla",
+        "alt": "Dois robôs em festa infantil, cercados por crianças"
+      },
+      {
+        "nome": "robo-led-vermelho-criancas",
+        "alt": "Criança dando um high-five em robô com LEDs vermelhos e azuis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_aviso": "Fonte única dos dados comerciais. Campos vazios NÃO geram links nem aparecem no site; o build lista o que falta.",
+  "nome": "LC Robot & Eventos",
+  "dominio": "",
+  "whatsapp_numero": "5511959498202",
+  "_whatsapp_formato": "Somente dígitos com DDI+DDD, ex.: 5511999999999 (PREENCHER antes de publicar)",
+  "instagram_url": "https://www.instagram.com/lcroboteeventos/",
+  "instagram_confirmado": true,
+  "localizacao_publica": "Embu das Artes, SP",
+  "endereco_completo": "",
+  "email": "",
+  "modo_revisao": false,
+  "mensagens_whatsapp": {
+    "geral": "Olá! Conheci a LC Robot pelo site e gostaria de solicitar um orçamento para meu evento.",
+    "robos_led": "Olá! Tenho interesse nos robôs de LED para meu evento.",
+    "pista_paris": "Olá! Gostaria de conhecer as opções de Pista Paris.",
+    "dj": "Olá! Gostaria de consultar a disponibilidade de DJ para meu evento.",
+    "sonorizacao": "Olá! Gostaria de saber mais sobre sonorização para meu evento.",
+    "iluminacao": "Olá! Gostaria de saber mais sobre iluminação para meu evento.",
+    "co2": "Olá! Gostaria de saber mais sobre os efeitos especiais com CO₂.",
+    "plataforma_360": "Olá! Gostaria de consultar a disponibilidade da plataforma 360º.",
+    "drone": "Olá! Gostaria de consultar a captação de imagens com drone para meu evento."
+  },
+  "hero_video": "",
+  "_hero_video": "Nome do arquivo MP4 em static/video/ (ex.: robos-hero.mp4). Vazio = usa foto."
+}

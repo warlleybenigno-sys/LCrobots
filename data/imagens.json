@@ -1,0 +1,201 @@
+{
+ "robo-casamento-bolo": {
+  "w": 1536,
+  "h": 903,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "robo-festa-infantil-dupla": {
+  "w": 1536,
+  "h": 912,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "robo-balada-dupla": {
+  "w": 1536,
+  "h": 909,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "robo-casamento-pista": {
+  "w": 1474,
+  "h": 866,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1474
+  ]
+ },
+ "robo-led-vermelho-criancas": {
+  "w": 1474,
+  "h": 872,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1474
+  ]
+ },
+ "robo-noite-ao-ar-livre": {
+  "w": 1474,
+  "h": 862,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1474
+  ]
+ },
+ "robo-amarelo-noivos": {
+  "w": 767,
+  "h": 1376,
+  "larguras": [
+   480,
+   767
+  ]
+ },
+ "robo-amarelo-criancas": {
+  "w": 768,
+  "h": 1376,
+  "larguras": [
+   480,
+   768
+  ]
+ },
+ "robo-led-vermelho-balada": {
+  "w": 767,
+  "h": 1375,
+  "larguras": [
+   480,
+   767
+  ]
+ },
+ "robo-amarelo-salao-roxo": {
+  "w": 768,
+  "h": 1375,
+  "larguras": [
+   480,
+   768
+  ]
+ },
+ "robo-amarelo-vertical": {
+  "w": 1536,
+  "h": 2752,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "pista-paris-salao": {
+  "w": 1536,
+  "h": 2752,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "pista-paris-estrutura": {
+  "w": 1536,
+  "h": 910,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "pista-paris-detalhe": {
+  "w": 762,
+  "h": 910,
+  "larguras": [
+   480,
+   762
+  ]
+ },
+ "pista-paris-mesas": {
+  "w": 1520,
+  "h": 893,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1520
+  ]
+ },
+ "pista-paris-sapatos": {
+  "w": 1520,
+  "h": 1005,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1520
+  ]
+ },
+ "drone-ilustrativo": {
+  "w": 2000,
+  "h": 1318,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1600,
+   2000
+  ]
+ },
+ "dj-controladora": {
+  "w": 767,
+  "h": 1376,
+  "larguras": [
+   480,
+   767
+  ]
+ },
+ "dj-ao-ar-livre": {
+  "w": 768,
+  "h": 1376,
+  "larguras": [
+   480,
+   768
+  ]
+ },
+ "dj-pista-publico": {
+  "w": 768,
+  "h": 1376,
+  "larguras": [
+   480,
+   768
+  ]
+ },
+ "plataforma-360": {
+  "w": 1536,
+  "h": 2752,
+  "larguras": [
+   480,
+   800,
+   1280,
+   1536
+  ]
+ },
+ "_logo": {
+  "w": 919,
+  "h": 953
+ }
+}
